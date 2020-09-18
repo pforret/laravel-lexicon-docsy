@@ -1,0 +1,3 @@
+unsplashdl: check required programs OK
+awk basename convert curl cut date dirname exiftool find grep head jq mkdir sed stat tput uname wc 
+Fri Sep 11 22:48:15 CEST 2020
