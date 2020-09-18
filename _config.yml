@@ -14,7 +14,7 @@ url: "https://vsoch.github.io" # the base hostname & protocol for your site
 repo: "https://github.com/pforret/laravel-lexicon-docsy"
 github_user: "pforret"
 github_repo: "laravel-lexicon-docsy"
-repository: "laravel-lexicon-docsy"
+repository: "pforret/laravel-lexicon-docsy"
 
 # Optional
 twitter: pforret
