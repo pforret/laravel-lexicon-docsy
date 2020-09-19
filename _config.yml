@@ -40,7 +40,7 @@ color: "#30638e"
 tag_color: primary # danger, success, warning, primary, info, secondary
 
 accentColor: red # purple, green, etc.
-themeColor: blue # purple, green, blue, orange, purple, grey
+themeColor: orange # purple, green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
 permalink: /:year/:title/
@@ -51,7 +51,7 @@ exclude: [_site, CHANGELOG.md, LICENSE, README.md, vendor]
 collections:
   docs:
     output: true
-    permalink: /:collection/:path
+    permalink: /:path
 
 # Defaults
 defaults:
