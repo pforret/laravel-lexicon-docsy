@@ -1,5 +1,4 @@
 ---
-date: 2020-01-06 12:26:40
 layout: post
 title: Facade
 subtitle: 

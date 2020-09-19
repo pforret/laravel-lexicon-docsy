@@ -12,7 +12,6 @@ tags:
   - closure
 author: pforret
 ---
-
 ## Definition
 
 > Anonymous functions, also known as [closures](/closure), allow the creation of functions which have no specified name. They are most useful as the value of callback parameters (...) &bull; [php.net](https://www.php.net/manual/en/functions.anonymous.php)
