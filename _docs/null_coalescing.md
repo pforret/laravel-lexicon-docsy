@@ -13,7 +13,9 @@ tags:
 author: pforret
 ---
 ## Definition
- 
+
+    $value ?? $default_value;
+
 ## Usage
 
 short for `isset($value) ? $value : $default_value;`
