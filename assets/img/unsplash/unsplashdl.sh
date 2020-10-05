@@ -53,7 +53,7 @@ set_exif(){
 
   if [[ -n "$exifval" ]] ; then
     log "exiftool -$exifkey=\"$exifval\" $filename"
-    exiftool -$exifkey="$exifval" "$filename" > /dev/null
+    exiftool -overwrite_original -$exifkey="$exifval" "$filename" > /dev/null
   fi
 }
 

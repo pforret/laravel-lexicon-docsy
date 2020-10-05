@@ -5,9 +5,9 @@ permalink: /
 ---
 
 # Laravel Lexicon (BETA)
-![Laravel Lexicon Logo](assets/img/logo/android-chrome-512x512.png)
+![Laravel Lexicon Logo](assets/img/lexicon.jpg)
 
-This site explains most of the technical programming terms and concepts you will need as a PHP/Laravel developer.
+Dictionary of PHP / Laravel technical terms and concepts
 
 <div class="section-index">
     <hr class="panel-line">
